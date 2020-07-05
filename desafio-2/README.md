@@ -1,4 +1,4 @@
-### Desafio 3 - Criação de Hello World com buffalo framework
+### Desafio 2 - Criação de Hello World com buffalo framework
 
 O segundo desafio consiste em criar uma página web contendo o texto hello world com o framework Buffalo.
 
